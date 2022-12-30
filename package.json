@@ -19,7 +19,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "http-status-codes": "^1.4.0",
-    "mocha": "^7.1.2"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "superagent": "^5.2.2",
